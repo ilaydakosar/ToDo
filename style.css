@@ -38,7 +38,7 @@ body::after{
 
 .card{
     position: relative;
-    width: 70%;
+    width: 90%;
     padding: 20px;
     margin: 20px 0px;
     background: rgba(0,0,0,0.8 );
